@@ -1,4 +1,3 @@
-<a href="https://githubroast.icu/u/FujimiyaKaor1"><img src="https://githubroast.icu/api/badge/FujimiyaKaor1" alt="GitHub Roast 评分徽章" /></a>
 [![GitHub Roast](https://githubroast.icu/api/card/FujimiyaKaor1)](https://githubroast.icu/u/FujimiyaKaor1)
 <!--
 **FujimiyaKaor1/FujimiyaKaor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
