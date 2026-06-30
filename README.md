@@ -1,4 +1,4 @@
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/emmm-2333)](https://githubroast.dev/u/emmm-2333)
+[![GitHub Roast](https://githubroast.dev/api/card/emmm-2333?theme=dark)](https://githubroast.dev/u/emmm-2333)
 <!--
 **FujimiyaKaor1/FujimiyaKaor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
