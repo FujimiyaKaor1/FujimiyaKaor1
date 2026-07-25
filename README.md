@@ -1,4 +1,4 @@
-[![GitHub Roast](https://githubroast.dev/api/card/youki258?theme=dark)](https://githubroast.dev/u/youki258)
+https://ghfind.com/api/card/fujimiyakaor1?theme=dark
 <!--
 **FujimiyaKaor1/FujimiyaKaor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
