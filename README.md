@@ -1,4 +1,4 @@
-https://ghfind.com/api/card/fujimiyakaor1?theme=dark
+<a href="https://ghfind.com/u/fujimiyakaor1?ref=badge"><img src="https://ghfind.com/api/card/fujimiyakaor1?theme=dark" alt="GitHub Roast" width="600" /></a>
 <!--
 **FujimiyaKaor1/FujimiyaKaor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
