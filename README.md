@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Exploring-HarmonyOS-0A59F7?style=for-the-badge&logo=huawei&logoColor=white" alt="HarmonyOS exploration" />
 </p>
 
+---
+
 </div>
 
 ## 👋 关于我
