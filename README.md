@@ -67,12 +67,6 @@
 
 </div>
 
-### IHaveAlreadySeenIt
-
-一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器
-
-`Swift` `SwiftUI` `macOS` `CLI` `Security` `GPL-3.0`
-
 <div align="center">
 
 
