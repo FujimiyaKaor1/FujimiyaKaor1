@@ -64,27 +64,6 @@
 
 👉 [查看项目](https://github.com/FujimiyaKaor1/IHaveAlreadySeenIt)
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FujimiyaKaor1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujimiyaKaor1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=FujimiyaKaor1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=FujimiyaKaor1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FujimiyaKaor1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
 ## 🤝 连接我
 
 <div align="center">
