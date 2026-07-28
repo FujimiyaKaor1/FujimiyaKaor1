@@ -73,8 +73,9 @@
 
 <div align="center">
 
+---
+
 <i>早点休息，别让坏情绪追上你✨</i>
 
-<a href="https://github.com/FujimiyaKaor1"><img src="https://img.shields.io/badge/Follow-FujimiyaKaor1-181717?style=for-the-badge&logo=github" alt="Follow FujimiyaKaor1 on GitHub" /></a>
 
 </div>
