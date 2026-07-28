@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -68,7 +68,7 @@
 
 ### IHaveAlreadySeenIt
 
-一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器。项目使用 SwiftUI 构建图形界面，同时提供可审计 CLI、严格版本白名单、完整备份与事务回滚机制，重点关注本地隐私、安全边界和可恢复性
+一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器
 
 `Swift` `SwiftUI` `macOS` `CLI` `Security` `GPL-3.0`
 
@@ -77,9 +77,6 @@
 <div align="center">
 
 <a href="https://github.com/FujimiyaKaor1"><img src="https://img.shields.io/badge/Follow-FujimiyaKaor1-181717?style=for-the-badge&logo=github" alt="Follow FujimiyaKaor1 on GitHub" /></a>
-
-<br />
-<br />
 
 <i>早点休息，别让坏情绪追上你✨</i>
 
