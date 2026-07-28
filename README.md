@@ -18,7 +18,6 @@
 
 - 🤖 AI-Agent 应用开发与 LangChain 生态
 - 📱 HarmonyOS 应用开发与 ArkUI 跨设备体验
-- 🧩 后端工程、API 设计与开发工具
 - 🛠️ 用项目实践不断提升工程能力
 
 ## 🧰 技术栈
