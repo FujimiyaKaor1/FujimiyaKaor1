@@ -72,8 +72,6 @@
 
 `Swift` `SwiftUI` `macOS` `CLI` `Security` `GPL-3.0`
 
-👉 [查看项目](https://github.com/FujimiyaKaor1/IHaveAlreadySeenIt)
-
 ## 🤝 连接我
 
 <div align="center">
