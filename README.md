@@ -26,16 +26,26 @@
 ### AI / Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,redis,docker,git" alt="Python, Java, Spring, MySQL, Redis, Docker and Git" />
-  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,vue,react,astro,html,css" alt="TypeScript, Vue, React, Astro, HTML and CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### HarmonyOS
@@ -51,7 +61,7 @@
 <div align="center">
 
 <a href="https://github.com/FujimiyaKaor1/IHaveAlreadySeenIt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FujimiyaKaor1&repo=IHaveAlreadySeenIt&theme=tokyonight&hide_border=true" alt="IHaveAlreadySeenIt repository card" />
+  <img src="https://img.shields.io/badge/IHaveAlreadySeenIt-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View IHaveAlreadySeenIt repository" />
 </a>
 
 </div>
@@ -68,20 +78,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FujimiyaKaor1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujimiyaKaor1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=FujimiyaKaor1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=FujimiyaKaor1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FujimiyaKaor1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<a href="https://github.com/FujimiyaKaor1"><img src="https://img.shields.io/badge/GitHub-FujimiyaKaor1-181717?style=for-the-badge&logo=github&logoColor=white" alt="FujimiyaKaor1 GitHub profile" /></a>
 
 </div>
 
