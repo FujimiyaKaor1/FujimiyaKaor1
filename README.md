@@ -12,7 +12,7 @@
 
 ## 👋 关于我
 
-我是一名软件工程大二学生，专注于探索 **AI-Agent** 与 **HarmonyOS 应用开发**，持续学习如何将智能能力融入真实的软件产品。
+软件工程大二在读，专注于探索 **AI-Agent** 与 **HarmonyOS 应用开发**，持续学习如何将智能能力融入真实的软件产品
 
 目前，我正在关注：
 
@@ -68,19 +68,11 @@
 
 ### IHaveAlreadySeenIt
 
-一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器。项目使用 SwiftUI 构建图形界面，同时提供可审计 CLI、严格版本白名单、完整备份与事务回滚机制，重点关注本地隐私、安全边界和可恢复性。
+一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器。项目使用 SwiftUI 构建图形界面，同时提供可审计 CLI、严格版本白名单、完整备份与事务回滚机制，重点关注本地隐私、安全边界和可恢复性
 
 `Swift` `SwiftUI` `macOS` `CLI` `Security` `GPL-3.0`
 
 👉 [查看项目](https://github.com/FujimiyaKaor1/IHaveAlreadySeenIt)
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<a href="https://github.com/FujimiyaKaor1"><img src="https://img.shields.io/badge/GitHub-FujimiyaKaor1-181717?style=for-the-badge&logo=github&logoColor=white" alt="FujimiyaKaor1 GitHub profile" /></a>
-
-</div>
 
 ## 🤝 连接我
 
@@ -91,6 +83,6 @@
 <br />
 <br />
 
-<i>保持好奇，持续构建。✨</i>
+<i>早点休息，别让坏情绪追上你✨</i>
 
 </div>
