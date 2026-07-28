@@ -65,6 +65,12 @@
   <img src="https://img.shields.io/badge/IHaveAlreadySeenIt-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View IHaveAlreadySeenIt repository" />
 </a>
 
+### IHaveAlreadySeenIt
+
+一个免费、开源、仅在本机运行的 macOS 微信防撤回补丁管理器
+
+`Swift` `SwiftUI` `macOS` `CLI` `Security` `GPL-3.0`
+
 </div>
 
 <div align="center">
